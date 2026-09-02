@@ -1,0 +1,2 @@
+/* rev-c3d90e-20260902 wsa.txt */
+build=v1.2.0
